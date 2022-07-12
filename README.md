@@ -1,2 +1,2 @@
 # Machine-Learning-Python-Final
-NBA Playoff Predictor 
+Predicting the outcome of the NBA finals using machine learning
